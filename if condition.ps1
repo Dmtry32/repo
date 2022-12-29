@@ -1,7 +1,7 @@
 ﻿cls
 [string ] $nomclasse = "cp"
 [int] $nombreeleve = 28
-
+#nouveau commentaire
 #test de foctionement de variable 
 #test
 
